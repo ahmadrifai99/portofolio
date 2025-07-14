@@ -19,9 +19,9 @@ export default function WorkSingle() {
 										<h3 className="ds-3 mt-3 mb-4 text-gray">
 											Web Programming | ERP Project
 										</h3>
-										<p className="text-300 fs-5 mb-0">
+										{/* <p className="text-300 fs-5 mb-0">
 											The project involved creating an intuitive and visually appealing user interface, ensuring that users can effortlessly book flights, hotels, and car rentals all within a single app.
-										</p>
+										</p> */}
 									</div>
 								</div>
 								<div className="d-flex flex-wrap justify-content-center gap-4 py-8">
