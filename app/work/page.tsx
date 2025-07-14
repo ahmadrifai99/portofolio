@@ -14,7 +14,7 @@ export default function Work() {
 								<div className="col-lg-8 mx-lg-auto">
 									<div className="text-center">
 										{/* <Link href="/#" className="btn btn-gradient d-inline-block text-uppercase"> recent Project </Link> */}
-										<h3 className="ds-3 mt-3 mb-4 text-dark">Explore <span className="text-300">My Latest Project</span></h3>
+										<h3 className="ds-3 mt-3 mb-4 text-gray">Explore <span className="text-300">My Latest Project</span></h3>
 										<p className="text-300 fs-5">
 											Simple, scalable, and smart.
 										</p>

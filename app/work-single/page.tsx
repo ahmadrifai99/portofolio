@@ -16,7 +16,7 @@ export default function WorkSingle() {
 										{/* <Link href="/#" className="btn btn-gradient d-inline-block text-uppercase">
 											work details
 										</Link> */}
-										<h3 className="ds-3 mt-3 mb-4 text-dark">
+										<h3 className="ds-3 mt-3 mb-4 text-gray">
 											Web Programming | ERP Project
 										</h3>
 										<p className="text-300 fs-5 mb-0">
