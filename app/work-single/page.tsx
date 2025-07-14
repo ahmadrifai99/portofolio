@@ -31,11 +31,11 @@ export default function WorkSingle() {
 									</div> */}
 									<div className="bg-6 px-5 py-3 rounded-2">
 										<p className="text-300 mb-0">Start</p>
-										<h6>01 Nov 2023</h6>
+										<h6>Nov 2023</h6>
 									</div>
 									<div className="bg-6 px-5 py-3 rounded-2">
 										<p className="text-300 mb-0">Complete</p>
-										<h6>30 April 2025</h6>
+										<h6>Mar 2025</h6>
 									</div>
 									<div className="bg-6 px-5 py-3 rounded-2">
 										<p className="text-300 mb-0">Services</p>
