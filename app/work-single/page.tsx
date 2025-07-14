@@ -209,7 +209,7 @@ export default function WorkSingle() {
 										<Link href="/https://maps.google.com/maps?q=1st+avenue,New+York" className="position-absolute top-0 start-0 w-100 h-100" />
 									</div>
 								</div>
-								<div className="col-lg-7 offset-lg-1 ps-lg-0 pt-5 pt-lg-0">
+								{/* <div className="col-lg-7 offset-lg-1 ps-lg-0 pt-5 pt-lg-0">
 									<div className="position-relative">
 										<div className="position-relative z-2">
 											<h3>Leave a messge</h3>
@@ -246,7 +246,7 @@ export default function WorkSingle() {
 										</div>
 										<div className="z-0 bg-primary-dark rectangle-bg z-1 rounded-3" />
 									</div>
-								</div>
+								</div> */}
 							</div>
 						</div>
 						<div className="scroll-move-right position-absolute bottom-0 start-50 translate-middle-x bg-900 overflow-hidden">
