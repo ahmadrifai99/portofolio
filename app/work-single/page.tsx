@@ -55,31 +55,31 @@ export default function WorkSingle() {
 									<h5 className="fs-5 fw-medium mt-4">Key Features</h5>
 									<ul>
 										<li>
-											<p className="text-dark fw-bold">User-Centric Interface: <span className="text-300 fw-medium">Developed a clean and intuitive interface that allows users from various departments to access and manage system features easily and efficiently.</span></p>
+											<p className="text-gray fw-bold">User-Centric Interface: <span className="text-300 fw-medium">Developed a clean and intuitive interface that allows users from various departments to access and manage system features easily and efficiently.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Integrated Business Modules: <span className="text-300 fw-medium">Implemented fully integrated modules including Accounting, Inventory Management, Procurement, Sales, and Human Resources to support daily business operations.</span></p>
+											<p className="text-gray fw-bold">Integrated Business Modules: <span className="text-300 fw-medium">Implemented fully integrated modules including Accounting, Inventory Management, Procurement, Sales, and Human Resources to support daily business operations.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Process Automation: <span className="text-300 fw-medium">Designed automated workflows for inventory control, transaction processing, and document approvals, reducing manual workload and minimizing errors.</span></p>
+											<p className="text-gray fw-bold">Process Automation: <span className="text-300 fw-medium">Designed automated workflows for inventory control, transaction processing, and document approvals, reducing manual workload and minimizing errors.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Real-Time Reporting & Analytics: <span className="text-300 fw-medium">Provided dynamic and customizable reporting tools that enable management to make data-driven decisions in real-time.</span></p>
+											<p className="text-gray fw-bold">Real-Time Reporting & Analytics: <span className="text-300 fw-medium">Provided dynamic and customizable reporting tools that enable management to make data-driven decisions in real-time.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Data Security & Access Control: <span className="text-300 fw-medium">Equipped with role-based access control to ensure secure access to sensitive company data and protect against unauthorized use.</span></p>
+											<p className="text-gray fw-bold">Data Security & Access Control: <span className="text-300 fw-medium">Equipped with role-based access control to ensure secure access to sensitive company data and protect against unauthorized use.</span></p>
 										</li>
 									</ul>
 									<h5 className="fs-5 fw-medium mt-4">Technologies Used</h5>
 									<ul>
 										<li>
-											<p className="text-dark fw-bold">Front-End: <span className="text-300 fw-medium">React JS</span></p>
+											<p className="text-gray fw-bold">Front-End: <span className="text-300 fw-medium">React JS</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Back-End: <span className="text-300 fw-medium">Golang.</span></p>
+											<p className="text-gray fw-bold">Back-End: <span className="text-300 fw-medium">Golang.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Database: <span className="text-300 fw-medium">Mysql / Redis</span></p>
+											<p className="text-gray fw-bold">Database: <span className="text-300 fw-medium">Mysql / Redis</span></p>
 										</li>
 										{/* <li>
 											<p className="text-dark fw-bold">APIs: <span className="text-300 fw-medium">Integrated third-party APIs for flight, hotel, and car rental bookings to provide a wide range of options to users.</span></p>
