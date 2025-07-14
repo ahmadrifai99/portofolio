@@ -15,18 +15,18 @@ export default function Footer1() {
 								<Link href="/" className="fs-5">
 									Home
 								</Link>
-								<Link href="/services" className="fs-5">
+								{/* <Link href="/services" className="fs-5">
 									Services
-								</Link>
+								</Link> */}
 								<Link href="/work" className="fs-5">
 									Portfolio
 								</Link>
-								<Link href="/pricing" className="fs-5">
+								{/* <Link href="/pricing" className="fs-5">
 									Pricing
-								</Link>
-								<Link href="/blog-list" className="fs-5">
+								</Link> */}
+								{/* <Link href="/blog-list" className="fs-5">
 									Blog
-								</Link>
+								</Link> */}
 								<Link href="/#contact" className="fs-5">
 									Contact
 								</Link>
