@@ -48,7 +48,7 @@ export default function Resume1() {
 												<h5>Teknik Pembuatan Aplikasi menggunakan Javascript dan Node.js</h5>
 												<p className="text-300 mb-0">Course-Net</p>
 											</div>
-											<h3 className="text-linear-1 ms-auto fw-semibold">4.9<span className="fs-4 fw-bold">/5</span></h3>
+											{/* <h3 className="text-linear-1 ms-auto fw-semibold">4.9<span className="fs-4 fw-bold">/5</span></h3> */}
 										</div>
 									</div>
 									<div className="resume-card-item px-4 py-3 mt-5">
@@ -58,7 +58,7 @@ export default function Resume1() {
 												<h5>Scable Web Service With Golang</h5>
 												<p className="text-300 mb-0">Digital Talent Scholarship</p>
 											</div>
-											<h3 className="text-linear-1 ms-auto fw-semibold">5.0<span className="fs-4 fw-bold">/5</span></h3>
+											{/* <h3 className="text-linear-1 ms-auto fw-semibold">5.0<span className="fs-4 fw-bold">/5</span></h3> */}
 										</div>
 									</div>
 									
@@ -108,9 +108,9 @@ export default function Resume1() {
 					</div>
 				</div>
 				<div className="scroll-move-right position-relative pb-160 pt-lg-150">
-					<div className="d-flex align-items-center gap-5 wow img-custom-anim-top position-absolute top-50 start-50 translate-middle">
+					{/* <div className="d-flex align-items-center gap-5 wow img-custom-anim-top position-absolute top-50 start-50 translate-middle">
 						<h3 className="stroke fs-150 text-uppercase text-white">Portofolio Ahmad Rifai</h3>
-					</div>
+					</div> */}
 				</div>
 			</section>
 
