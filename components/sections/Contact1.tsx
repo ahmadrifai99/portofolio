@@ -17,7 +17,7 @@ export default function Contact1() {
 							{/* Phone */}
 							<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
 								<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4 d-flex justify-content-center align-items-center">
-									<i className="ri-phone-fill fs-26 text-dark" />
+									<i className="ri-phone-fill fs-26 text-white" />
 								</div>
 								<div className="ps-3">
 									<span className="text-white-50 fs-5">Phone Number</span>
@@ -28,7 +28,7 @@ export default function Contact1() {
 							{/* Email */}
 							<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
 								<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4 d-flex justify-content-center align-items-center">
-									<i className="ri-mail-fill fs-26 text-dark" />
+									<i className="ri-mail-fill fs-26 text-white" />
 								</div>
 								<div className="ps-3">
 									<span className="text-white-50 fs-5">Email</span>
@@ -39,7 +39,7 @@ export default function Contact1() {
 							{/* Address */}
 							<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
 								<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4 d-flex justify-content-center align-items-center">
-									<i className="ri-map-2-fill fs-26 text-dark" />
+									<i className="ri-map-2-fill fs-26 text-white" />
 								</div>
 								<div className="ps-3">
 									<span className="text-white-50 fs-5">Address</span>
