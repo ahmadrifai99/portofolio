@@ -31,15 +31,15 @@ export default function Work() {
 											<div className="card__inner bg-6 p-lg-6 p-md-4 p-3">
 												<div className="card__image-container zoom-img position-relative">
 													<img className="card__image" src="/assets/imgs/work/erp-login.png" alt="" style={{ width: "522px", height: "547", objectFit: "contain" }}/>
-													<Link href="/work-single" className="card-image-overlay position-absolute start-0 end-0 w-100 h-100" />
+													<Link href="/erp" className="card-image-overlay position-absolute start-0 end-0 w-100 h-100" />
 												</div>
 												<div className="card__content px-md-4 px-3">
 													<div className="card__title d-md-flex align-items-center mb-0 mb-lg-2">
-														<Link href="/work-single" className="card_title_link">
+														<Link href="/erp" className="card_title_link">
 															<p className="text-primary mb-0 mb-md-2">Web Developer</p>
 															<h3 className="fw-semibold">Erp Project</h3>
 														</Link>
-														<Link href="/work-single" className="card-icon d-none d-md-inline-flex border text-dark border-dark icon-shape ms-auto icon-md rounded-circle">
+														<Link href="/erp" className="card-icon d-none d-md-inline-flex border text-dark border-dark icon-shape ms-auto icon-md rounded-circle">
 															<i className="ri-arrow-right-up-line" />
 														</Link>
 													</div>
@@ -71,29 +71,29 @@ export default function Work() {
 												</div>
 											</div>
 										</div>
-										{/* <div className="card-custom" data-index={0}>
+										<div className="card-custom" data-index={0}>
 											<div className="card__inner bg-6 p-lg-6 p-md-4 p-3">
 												<div className="card__image-container zoom-img position-relative">
-													<img className="card__image" src="/assets/imgs/work/img-2.png" alt="" />
-													<Link href="/work-single" className="card-image-overlay position-absolute start-0 end-0 w-100 h-100" />
+													<img className="card__image" src="/assets/imgs/work/laundry.png" alt="" style={{ width: "522px", height: "547", objectFit: "contain" }}/>
+													<Link href="/laundry" className="card-image-overlay position-absolute start-0 end-0 w-100 h-100" />
 												</div>
 												<div className="card__content px-md-4 px-3">
 													<div className="card__title d-md-flex align-items-center mb-0 mb-lg-2">
-														<Link href="/work-single" className="card_title_link">
-															<p className="text-primary mb-0 mb-md-2">APP DESIGN</p>
-															<h3 className="fw-semibold">Fitness App UI/UX</h3>
+														<Link href="/laundry" className="card_title_link">
+															<p className="text-primary mb-0 mb-md-2">APP Frontend</p>
+															<h3 className="fw-semibold">Laundry Website</h3>
 														</Link>
-														<Link href="/work-single" className="card-icon d-none d-md-inline-flex border text-dark border-dark icon-shape ms-auto icon-md rounded-circle">
+														<Link href="/laundry" className="card-icon d-none d-md-inline-flex border text-dark border-dark icon-shape ms-auto icon-md rounded-circle">
 															<i className="ri-arrow-right-up-line" />
 														</Link>
 													</div>
-													<p className="text-300 mb-lg-auto mb-md-4 mb-3">Designed an interactive and engaging educational platform aimed at improving online learning experiences. This included developing intuitive navigation, interactive course materials, and features that support student engagement and participation, making learning more accessible and enjoyable.</p>
+													<p className="text-300 mb-lg-auto mb-md-4 mb-3">Designed an intuitive and visually appealing frontend interface for a modern laundry service website. This included developing user-friendly navigation, real-time order tracking, and seamless booking forms to enhance user experience. Focused on responsiveness, clarity, and convenience to ensure customers can easily schedule pickups, track progress, and manage their laundry orders online</p>
 													<div className="d-md-flex content">
 														<p className="mb-0 fs-7 text-dark text-uppercase w-40">
 															Client
 														</p>
 														<p className="mb-0 card__description text-300 fs-6 mb-0">
-															Conceptual JSC
+															Launder Woman
 														</p>
 													</div>
 													<div className="d-md-flex content">
@@ -101,7 +101,7 @@ export default function Work() {
 															Completion Time
 														</p>
 														<p className="mb-0 card__description text-300 fs-6 mb-0">
-															6 months
+															1 week
 														</p>
 													</div>
 													<div className="d-md-flex content">
@@ -109,13 +109,13 @@ export default function Work() {
 															Tools
 														</p>
 														<p className="mb-0 card__description text-300 fs-6 mb-0">
-															Figma, Sketch, Photoshop, Framer
+															Next JS
 														</p>
 													</div>
 												</div>
 											</div>
 										</div>
-										<div className="card-custom" data-index={0}>
+										{/*<div className="card-custom" data-index={0}>
 											<div className="card__inner bg-6 p-lg-6 p-md-4 p-3">
 												<div className="card__image-container zoom-img position-relative">
 													<img className="card__image" src="/assets/imgs/work/img-3.png" alt="" />
